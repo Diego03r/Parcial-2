@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+    height: 100vh;
+}
+
+h1{
+    color: rgb(25, 0, 255);
+    text-align: center;
+}
+
+.img{
+    text-align: right;
+}
+
+.p{
+    font-weight: bold;
+    color: #2a2a2a;
+}
+
+footer{
+    color: gray;
+}
